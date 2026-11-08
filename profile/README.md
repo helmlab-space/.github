@@ -37,7 +37,7 @@ Figures will be published on one evidence page, generated from one file. Each fi
 
 - Packages: [`helmlab` on npm](https://www.npmjs.com/package/helmlab), [`helmlab` on PyPI](https://pypi.org/project/helmlab/), [`postcss-helmlab` on npm](https://www.npmjs.com/package/postcss-helmlab)
 - Documentation: [`API.md`](https://github.com/Grkmyldz148/helmlab/blob/main/API.md) and [`CHANGELOG.md`](https://github.com/Grkmyldz148/helmlab/blob/main/CHANGELOG.md) in the `helmlab` repository
-- Website: helmlab.space is offline; it is planned as the documentation site.
+- Website: [helmlab.space](https://helmlab.space), being rebuilt as the documentation site.
 - Paper: [arXiv 2602.23010](https://arxiv.org/abs/2602.23010). Its description of the neutral-correction step differs from the released code; see [helmlab#4](https://github.com/Grkmyldz148/helmlab/issues/4).
 - Dataset catalog: [grkmyldz148.github.io/color-perception-datasets](https://grkmyldz148.github.io/color-perception-datasets/)
 - Questions and bug reports: open an issue in the relevant repository. Dataset takedown requests: [color-perception-datasets issues](https://github.com/Grkmyldz148/color-perception-datasets/issues).
