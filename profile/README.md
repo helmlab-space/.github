@@ -21,10 +21,10 @@ A specification and test vectors for Helmlab 2026 are planned for the `helmlab` 
 
 | Repository | Contents |
 | --- | --- |
-| [`helmlab`](https://github.com/Grkmyldz148/helmlab) | Reference code: the `helmlab` package for npm and PyPI. Also the `postcss-helmlab` plugin, the paper source and the sources of the agent skills. |
+| [`helmlab`](https://github.com/helmlab-space/helmlab) | Reference code: the `helmlab` package for npm and PyPI. Also the `postcss-helmlab` plugin, the paper source and the sources of the agent skills. |
 | [`colorbench`](https://github.com/Grkmyldz148/colorbench) | ColorBench tests color spaces against human psychophysical data and on generation properties such as gamut, gradients and round trips. Its public board shows pre-v4 results; those figures are withdrawn. |
 | [`color-perception-datasets`](https://github.com/Grkmyldz148/color-perception-datasets) | Color-perception datasets in shared schemas. Each dataset's license is shown on its catalog page. The bulk download leaves out datasets whose license is unspecified or limited to academic or non-commercial use. |
-| [`color-skills`](https://github.com/helmlab-space/color-skills) | Agent skills for color tasks, mirrored from the [`skills` folder](https://github.com/Grkmyldz148/helmlab/tree/main/skills) of `helmlab`. Install: `npx skills add helmlab-space/color-skills` |
+| [`color-skills`](https://github.com/helmlab-space/color-skills) | Agent skills for color tasks, mirrored from the [`skills` folder](https://github.com/helmlab-space/helmlab/tree/main/skills) of `helmlab`. Install: `npx skills add helmlab-space/color-skills` |
 | [`helmlab-experimental`](https://github.com/helmlab-space/helmlab-experimental) | Research experiments, optimization checkpoints and analysis scripts from GenSpace development. The win counts in its README are pre-v4 ColorBench figures. |
 
 `helmlab`, `colorbench` and `color-perception-datasets` are under the maintainer's account, Grkmyldz148.
@@ -36,9 +36,9 @@ Figures will be published on one evidence page, generated from one file. Each fi
 ## Links
 
 - Packages: [`helmlab` on npm](https://www.npmjs.com/package/helmlab), [`helmlab` on PyPI](https://pypi.org/project/helmlab/), [`postcss-helmlab` on npm](https://www.npmjs.com/package/postcss-helmlab)
-- Documentation: [`API.md`](https://github.com/Grkmyldz148/helmlab/blob/main/API.md) and [`CHANGELOG.md`](https://github.com/Grkmyldz148/helmlab/blob/main/CHANGELOG.md) in the `helmlab` repository
+- Documentation: [`API.md`](https://github.com/helmlab-space/helmlab/blob/main/API.md) and [`CHANGELOG.md`](https://github.com/helmlab-space/helmlab/blob/main/CHANGELOG.md) in the `helmlab` repository
 - Website: [helmlab.space](https://helmlab.space), being rebuilt as the documentation site.
-- Paper: [arXiv 2602.23010](https://arxiv.org/abs/2602.23010). Its description of the neutral-correction step differs from the released code; see [helmlab#4](https://github.com/Grkmyldz148/helmlab/issues/4).
+- Paper: [arXiv 2602.23010](https://arxiv.org/abs/2602.23010). Its description of the neutral-correction step differs from the released code; see [helmlab#4](https://github.com/helmlab-space/helmlab/issues/4).
 - Dataset catalog: [grkmyldz148.github.io/color-perception-datasets](https://grkmyldz148.github.io/color-perception-datasets/)
 - Questions and bug reports: open an issue in the relevant repository. Dataset takedown requests: [color-perception-datasets issues](https://github.com/Grkmyldz148/color-perception-datasets/issues).
 
